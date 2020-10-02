@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/traveldailylog/static/css/main.7da6dd3a.chunk.css",
+    "main.js": "/traveldailylog/static/js/main.2ae005c7.chunk.js",
+    "main.js.map": "/traveldailylog/static/js/main.2ae005c7.chunk.js.map",
+    "runtime-main.js": "/traveldailylog/static/js/runtime-main.0db95590.js",
+    "runtime-main.js.map": "/traveldailylog/static/js/runtime-main.0db95590.js.map",
+    "static/js/2.dc1c3e01.chunk.js": "/traveldailylog/static/js/2.dc1c3e01.chunk.js",
+    "static/js/2.dc1c3e01.chunk.js.map": "/traveldailylog/static/js/2.dc1c3e01.chunk.js.map",
+    "index.html": "/traveldailylog/index.html",
+    "precache-manifest.464a0c4e24641d5f7c2ea6a477dd8b9a.js": "/traveldailylog/precache-manifest.464a0c4e24641d5f7c2ea6a477dd8b9a.js",
+    "service-worker.js": "/traveldailylog/service-worker.js",
+    "static/css/main.7da6dd3a.chunk.css.map": "/traveldailylog/static/css/main.7da6dd3a.chunk.css.map",
+    "static/js/2.dc1c3e01.chunk.js.LICENSE.txt": "/traveldailylog/static/js/2.dc1c3e01.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0db95590.js",
+    "static/js/2.dc1c3e01.chunk.js",
+    "static/css/main.7da6dd3a.chunk.css",
+    "static/js/main.2ae005c7.chunk.js"
+  ]
+}
