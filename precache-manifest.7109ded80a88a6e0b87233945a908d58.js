@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "05f0c5956c7ffe66e10fb82294e26654",
+    "revision": "505404646c222949d2e1029ffa28f2b1",
     "url": "/traveldailylog/index.html"
   },
   {
-    "revision": "c32c8d15fc609a175ff4",
+    "revision": "e3f7524bd2fdc6f78e2c",
     "url": "/traveldailylog/static/css/main.7da6dd3a.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/traveldailylog/static/js/2.dc1c3e01.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "c32c8d15fc609a175ff4",
-    "url": "/traveldailylog/static/js/main.1d78d97f.chunk.js"
+    "revision": "e3f7524bd2fdc6f78e2c",
+    "url": "/traveldailylog/static/js/main.e3eb581c.chunk.js"
   },
   {
     "revision": "38eb424d2d73015da5c6",
